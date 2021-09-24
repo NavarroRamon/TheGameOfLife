@@ -1,0 +1,2 @@
+# gameoflife
+El código genera una visualización de el juego de la vida (un juego autómata que se genera a partir de una matríz aleatoria)
